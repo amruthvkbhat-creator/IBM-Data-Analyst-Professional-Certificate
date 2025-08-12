@@ -15,8 +15,8 @@ I will document progress, notes, and projects for each course here.
 
 | #  | Course Name | Duration (hrs) | Status | Notes/Projects |
 |----|-------------|---------------|--------|----------------|
-| 1  | Introduction to Data Analytics | 10 | ⏳ In Progress | - Key concepts: data types, roles, lifecycle |
-| 2  | Excel Basics for Data Analysis | 12 | ⏳ Pending | - Basic formulas, functions, pivot tables |
+| 1  | Introduction to Data Analytics | 10 | Completed | - Key concepts: data types, roles, lifecycle |
+| 2  | Excel Basics for Data Analysis | 12 | ⏳ Inprogress | - Basic formulas, functions, pivot tables |
 | 3  | Data Visualization and Dashboards with Excel and Cognos | 15 | ⏳ Pending | - Interactive dashboards |
 | 4  | Python for Data Science, AI & Development | 25 | ⏳ Pending | - Python basics, libraries |
 | 5  | Python Project for Data Science | 8 | ⏳ Pending | - Mini project using Python |
