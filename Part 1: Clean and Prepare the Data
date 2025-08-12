@@ -1,0 +1,36 @@
+Assignment: Final Assignment – Part 1
+Dataset Used in this Assignment
+The dataset used in this lab comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license.
+
+Guidelines for the Submission
+Download the file Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV. Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
+
+Tasks to perform:
+
+Save the CSV file as an XLSX file: Change the ‘Viewing’ in the ToolTip to ‘Editing’inorder to save the file as an XLSX file. The file is converted when you click ‘Convert’ in the prompt.
+
+ 
+Column widths: Sort out the widths of all columns so that the data is clearly visible in all cells.
+
+Empty rows: Use the Filter feature to look for blanks and remove all empty rows from the data.
+
+Duplicate records: Use either the Conditional Formatting or Remove Duplicates feature to look for and remove any duplicated records from the data.
+
+Spelling: The original source file data has not been checked for errors in the spelling. Check for spelling mistakes in the data and fix them.
+
+Whitespace: Use the Find and Replace feature to remove all double-spaces from the data.
+
+Department names: When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Use Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns.
+
+Department	Department
+Board of Elections	Economic Development
+Circuit Court	Environmental Protection
+Community Engagement Cluster	Finance
+Community Use of Public Facilities	Fire and Rescue
+Consumer Protection	General Services
+Correction and Rehabilitation	Health and Human Services
+County Executives Office	
+Download your workbook: Use‘Save As’and select‘Download a copy’ to download your completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX.
+
+
+Final result of Part 1 : https://1drv.ms/x/c/e6c9f80c4e3e4b16/EeW0A7JmFNhBqMv79aumrZ0B8Yxjp_D8oIi3Vq4ileIfJQ?e=1wcWRl
