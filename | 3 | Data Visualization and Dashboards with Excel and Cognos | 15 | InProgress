@@ -1,0 +1,17 @@
+Hands-on Lab 1: Creating Basic Charts : https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMSUyMC0lMjBDcmVhdGluZyUyMEJhc2ljJTIwQ2hhcnRzL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYXRsYXNfZmlsZV9pZCI6MTY5MzUsImFkbWluIjpmYWxzZSwiaWF0IjoxNzQ2MTIwMzg4fQ.kaz5UCmu43AD-nTpppSiwfh_oo0RlZkt-oCPbgrG8kM
+
+
+
+Result : https://1drv.ms/x/c/e6c9f80c4e3e4b16/EQylcCynFoVCghHaVX_WZjUBy1fMGRGN5tLhLgIb8m8qHA?e=LBxvcs
+
+Dataset Used in this Lab : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0130EN-SkillsNetwork/Hands-on%20Labs/Lab%201%20-%20Creating%20Basic%20Charts/Car_Sales_Kaggle_DV0130EN_Lab1_Start.xlsx
+The dataset used in this lab comes from the following source: https://www.kaggle.com/gagandeep16/car-sales under a CC0: Public Domain license. We are using a modified subset of that dataset for the lab, so to follow the lab instructions successfully, please use the dataset provided with the lab, rather than the dataset from the original source.
+
+Objectives
+After completing this lab, you will be able to:
+
+Create a column chart.
+Create an area chart.
+Create a bar chart from a pivot table.
+Create a line chart from a pivot table.
+
